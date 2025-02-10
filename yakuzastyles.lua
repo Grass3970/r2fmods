@@ -1,4 +1,4 @@
--- This script will be nerfed in PVP btw
+-- This script is planned to kick you in PVP btw
 
 _G.dodconfig = {
 	moveset = "DE",
