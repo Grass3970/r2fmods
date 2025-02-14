@@ -2,7 +2,7 @@
 
 _G.dodconfig = {
 	moveset = "DE", -- moveset for Brawler Style. (Y0/DE)
-	rushMoveset = "7G", -- moveset for Rush Style. (Y0/7G)
+	rushMoveset = "Y0", -- moveset for Rush Style. (Y0/7G)
 	
 	voice = true,
 	useVoice = "ps2Kiryu",
