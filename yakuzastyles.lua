@@ -11,7 +11,7 @@ _G.dodconfig = {
 	morph = false, -- morph mod
 	useMorph = "Legendary Dragon",
 	custommorph = "Y5",
-	-- custom morph (only Y5 for now)
+	-- custom morph (only Y5 for now),set to R2F to disable 
 	--[[
 		planned custom morphs:
 		Y0K (Yakuza 0 Kiryu, Thug outfit)
