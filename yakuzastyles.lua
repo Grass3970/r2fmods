@@ -11,7 +11,7 @@ _G.dodconfig = {
 	morph = false, -- morph mod
 	useMorph = "Legendary Dragon",
 	custommorph = "Y5",
-	-- custom morph (only Y5 for now), remove custommorph to disable
+	-- custom morph, remove custommorph to disable
 	--[[
 		current custom morphs:
 		Y1 (literally just legendary dragon w/ accurate hair)
