@@ -13,14 +13,18 @@ _G.dodconfig = {
 	custommorph = "Y5",
 	-- custom morph (only Y5 for now), remove custommorph to disable
 	--[[
+		current custom morphs:
+		Y1 (literally just legendary dragon w/ accurate hair)
+		Y5 (Taichi Suzuki)
+		
 		planned custom morphs:
 		Y0K (Yakuza 0 Kiryu, Thug outfit)
 		REK (Yakuza 0 Kiryu, Real Estate outfit)
-		Y1 (literally just legendary dragon w/ y1 hair)
-		Y5 (Taichi Suzuki)
 		Y6 (Onomichi Outfit)
 		Y7 (Kasuga Ichiban)
-		2hu (Hong Meiling, from Touhou EoSD) <- huge "maybe" tbh
+		asura (Asura, from Asura's Wrath)
+		meiling (Hong Meiling, from Touhou EoSD) <- huge "maybe" tbh
+		udonge (Reisen Udongein Inaba, from Touhou IN) <- huge "maybe" tbh
 	]]
 }
 
