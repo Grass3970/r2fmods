@@ -18,8 +18,7 @@ _G.dodconfig = {
 		Y5 (Taichi Suzuki)
 		
 		planned custom morphs:
-		Y0K (Yakuza 0 Kiryu, Thug outfit)
-		REK (Yakuza 0 Kiryu, Real Estate outfit)
+		Y0 (Yakuza 0 Kiryu, Thug outfit)
 		Y6 (Onomichi Outfit)
 		Y7 (Kasuga Ichiban)
 		asura (Asura, from Asura's Wrath)
