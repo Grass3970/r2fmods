@@ -15,15 +15,13 @@ _G.dodconfig = {
 	--[[
 		current custom morphs:
 		Y1 (literally just legendary dragon w/ accurate hair)
+		Y0 (Yakuza 0 Kiryu, Thug Outfit)
 		Y5 (Taichi Suzuki)
+		2hu (Hong Meiling)
 		
 		planned custom morphs:
-		Y0 (Yakuza 0 Kiryu, Thug outfit)
 		Y6 (Onomichi Outfit)
-		Y7 (Kasuga Ichiban)
-		asura (Asura, from Asura's Wrath)
-		meiling (Hong Meiling, from Touhou EoSD) <- huge "maybe" tbh
-		udonge (Reisen Udongein Inaba, from Touhou IN) <- huge "maybe" tbh
+		Y7 (Ichiban Kasuga)
 	]]
 }
 
